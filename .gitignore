@@ -1,0 +1,5 @@
+# Project exclude paths
+Tutorato Prova Finale Algoritmi e Strutture Dati 2020-2021.pdf
+/testcase_generator/
+/open_tests/
+/cmake-build-debug/
